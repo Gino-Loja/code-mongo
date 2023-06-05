@@ -1,0 +1,8 @@
+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
+
+
+git add .
+git remote set-url origin https://tu-usuario:${TOKEN}@github.com/tu-usuario/tu-repositorio.git
+git commit -m "sdsd"
+git push
+
